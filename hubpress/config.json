@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mohamed-amin",
-    "repositoryName": "mohamed-amin.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mohamed-amin","repositoryName":"mohamed-amin.github.io","branch":"master"},"site":{"title":"Mohamed Amin Blog","description":"I'm UI Designer / Front End Developer ","url":"https://mohamed-amin.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//mohamed-amin.github.io/themes/Casper"}}
