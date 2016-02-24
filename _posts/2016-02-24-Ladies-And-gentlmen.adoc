@@ -1,1 +1,9 @@
-# Ladies and Gentlmen
+# Ladies And gentlmen
+
+```js 
+var class = {};
+class.thing = funtion (params){
+	return params;
+}
+console.log(class.thing)
+## test text
