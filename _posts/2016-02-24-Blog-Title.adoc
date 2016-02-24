@@ -1,6 +1,6 @@
-# Ladies And gentlmen
+= Blog Title
+:hp-tags: javascript, angular, performance
 
-javascript, angular, performance
 
 
 ```js 
@@ -9,4 +9,5 @@ class.thing = funtion (params){
 	return params;
 }
 console.log(class.thing)
+
 ## test text
